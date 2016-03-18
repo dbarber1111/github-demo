@@ -1,3 +1,5 @@
 Test Git Quick Start demo
 add line
-added line for LR-314
+add line as part of LR-312
+add line as part of LR-313
+add line as part of LR-314
