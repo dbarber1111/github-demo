@@ -19,3 +19,11 @@ next
 
 id=1004
 add line 2
+
+next
+
+id=1003
+
+next
+
+id=1004
