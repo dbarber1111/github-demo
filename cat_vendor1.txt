@@ -7,3 +7,15 @@ id=1001
 next
 
 id=1002
+add text
+
+
+next
+
+id=1003
+add line 1
+
+next
+
+id=1004
+add line 2
